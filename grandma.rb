@@ -1,6 +1,9 @@
 # Write a speak_to_grandma method.
-if speak_to_grandma("no caps")
+
+def speak_to_grandma(string)
   puts "HUH?! SPEAK UP, SONNY!"
+end
+  
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
